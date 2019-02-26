@@ -1,15 +1,19 @@
 body{
-background: url('https://images.pexels.com/photos/870802/pexels-photo-870802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') !important;
+    background: url('https://images.pexels.com/photos/870802/pexels-photo-870802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') ;
 color: white;
 background-size:cover;
-         width:auto;
-
+         width:100%;
+position: fixed;
+height: 100%;
 font-weight: 300;
+
 }
 .col-lg-offset-3{
 margin-left:35%;
 }
+
 .wrapper {
+    
 background: #50a3a2;
 
 position: absolute;
